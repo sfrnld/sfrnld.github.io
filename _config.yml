@@ -1,7 +1,7 @@
 title:            
 description:      
 logo:             
-disqus_shortname: 
+disqus_shortname: sfrnld 
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
 url:              http://sfrnld.github.io
@@ -17,9 +17,9 @@ owner:
   github:         
   stackexchange:  
   linkedin:       
-  instagram:      
+  instagram:      sfrnld
   flickr:         
-  tumblr:         http://log.sfrnld.net
+  tumblr:         sfrnld
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    
 
@@ -34,13 +34,12 @@ bing_verify:
 links:
   - title: About
     url: /about/
-  - title: Articles
-    url: /articles/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+  - title: Talk
+    url: /talks/
+  - title: Project
+    url: /project/
+  - title: Wish List
+    url: /wishlist/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
