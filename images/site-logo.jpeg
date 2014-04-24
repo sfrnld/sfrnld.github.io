@@ -1,0 +1,16 @@
+--2014-04-24 12:52:46--  http://goo.gl/80Xt4B
+Resolving goo.gl (goo.gl)... 173.194.38.169, 173.194.38.161, 173.194.38.162, ...
+Connecting to goo.gl (goo.gl)|173.194.38.169|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://1.gravatar.com/avatar/55137714ccb53a82ea310dc63799e119?s=100&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D100&r=G [following]
+--2014-04-24 12:52:47--  http://1.gravatar.com/avatar/55137714ccb53a82ea310dc63799e119?s=100&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D100&r=G
+Resolving 1.gravatar.com (1.gravatar.com)... 68.232.44.121, 2606:2800:20d:1047:6cf:353:607:e8a
+Connecting to 1.gravatar.com (1.gravatar.com)|68.232.44.121|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4389 (4.3K) [image/jpeg]
+Saving to: ‘80Xt4B’
+
+     0K ....                                                  100%  346K=0.01s
+
+2014-04-24 12:52:47 (346 KB/s) - ‘80Xt4B’ saved [4389/4389]
+
