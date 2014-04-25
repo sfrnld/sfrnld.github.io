@@ -4,7 +4,7 @@ logo:
 disqus_shortname: sfrnld 
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://sfrnld.github.io
+url:              http://sfrnld.net
 
 # Owner/author information
 owner:
