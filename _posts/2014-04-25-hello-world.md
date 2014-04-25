@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Hello World
 description: "Blablablal"
 modified: 2014-04-25
