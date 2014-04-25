@@ -4,7 +4,7 @@ title: Hello World
 description: "Blablablal"
 modified: 2014-04-25
 category: articles
-tags: [sample post]
+tags: [hello world]
 image:
   feature: so-simple-sample-image-1.jpg
   credit: Michael Rose
