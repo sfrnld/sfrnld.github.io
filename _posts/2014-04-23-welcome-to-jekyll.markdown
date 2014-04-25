@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2014-04-23 11:17:00
 categories: jekyll update
-comment: true
+comments: true
 share: true
 ---
 
