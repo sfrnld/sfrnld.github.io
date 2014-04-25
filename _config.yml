@@ -4,7 +4,7 @@ logo:
 disqus_shortname: sfrnld 
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://sfrnld.net
+url:              http://www.sfrnld.net
 
 # Owner/author information
 owner:
