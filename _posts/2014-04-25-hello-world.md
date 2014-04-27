@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Hello World
-description: "Blablablal"
-modified: 2014-04-25
+title: Hallo
+description: "Move my blog to Github Pages, powered by Jekyll"
+modified: 2014-04-27
 category: articles
-tags: [hello world]
-image:
-  feature: http://goesholiday.com/wp-content/uploads/2013/11/Bali-Island-Resort-Private-Island.jpg
-  credit: Michael Rose
-  creditlink: http://mademistakes.com
+tags: [Demigeek, Blog, Jekyll, Github]
 comments: true
 share: true
 ---
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+Jadi sebenarnya sudah sejak lama kepikiran untuk memindahkan blog yang nggak keurus ini ke [Github Pages](http://pages.github.com). Pertimbangan utamanya adalah dalam rangka memanfaatkan semaksimal mungkin fasilitas gratisan :P. Sebelumnya domain ini diarahkan ke web hosting lokal ([gratisan juga sih](http://cloudkilat.com/layanan/kilat-hosting)) yang diinstall Wordpress. Di blog tersebut terdapat puluhan postingan berupa Draft, dan hanya 5 yang dipublish :P. Sedangkan saat ini, blog ini berada di Github Pages, fasilitas free hosting untuk static page yang disediakan oleh Github. Di Github Pages ini terinstall [Jekyll](http://jekyllrb.com), "a simple, blog-aware, statis site generator", besutan foundernya Github yang kemaren baru [mengundurkan diri dari perusahaan keren yang dibangunnnya sekian tahun](http://tom.preston-werner.com/2014/04/21/farewell-github-hello-immersive-computing.html). Ya, semoga di blog baru ini lebih banyak lagi draft-draft cerita yang bisa diselesaikan dan dipublish, walau pun dengan fitur yang geek banget, posting aja harus dari Github atau dari repo sendiri yang kemudian harus di-push ke repo di Github.
+
+Next step, bakalan import postingan dari blog lama ke sini, dan mulai lagi nulis hal-hal random dan nggak penting.
