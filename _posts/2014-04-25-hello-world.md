@@ -6,7 +6,7 @@ modified: 2014-04-25
 category: articles
 tags: [hello world]
 image:
-  feature: so-simple-sample-image-1.jpg
+  feature: http://goesholiday.com/wp-content/uploads/2013/11/Bali-Island-Resort-Private-Island.jpg
   credit: Michael Rose
   creditlink: http://mademistakes.com
 comments: true
