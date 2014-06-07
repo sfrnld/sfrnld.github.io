@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Test posting dari [prose.io](http://prose.io)
