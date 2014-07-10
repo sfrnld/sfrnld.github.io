@@ -5,15 +5,17 @@
 
 {% if site.owner.twitter %}<!-- Twitter Cards -->
 {% if page.image.feature %}<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="{{ site.url }}/images/{{ page.image.feature }}">
+<!-- <meta name="twitter:image" content="{{ site.url }}/images/{{ page.image.feature }}"> -->
 {% else %}<meta name="twitter:card" content="summary">
 <!-- <meta name="twitter:image" content="{% if page.image.thumb %}{{ site.url }}/images/{{ page.image.thumb }}{% else %}{{ site.url }}/images/{{ site.logo }}{% endif %}">{% endif %} -->
+<!--
 <meta name="twitter:image" content="http://www.sfrnld.net/images/site-logo.jpg">
 <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 <meta name="twitter:creator" content="@{{ site.owner.twitter }}">{% endif %}
-
+-->
 <!-- Open Graph -->
+<!--
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
@@ -21,6 +23,32 @@
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
 <meta property="og:site_name" content="{{ site.title }}">
 <meta property="og:image" content="http://www.sfrnld.net/images/site-logo.jpg" />
+-->
+<!-- TEST -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="google" value="notranslate">
+    <meta name="robots" content="all" />
+    <meta name="description" content="This is default meta description">
+    <meta name="keyword" content="This is default meta keyword">
+
+    <meta property="og:title" content="Voyages Open Graph Title" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="http://www.ayersrockresort.com.au/images/headers/ayers/TouchtheSilence_1.jpg" />
+
+    <meta property="og:description" content="This is default meta description">
+    <meta property="og:url" content="http://www.ayersrockresort.com.au/discovermore/">
+    <meta property="og:site_name" content="Voyages Ayers Rock Resort">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="twittersite">
+    <meta name="twitter:title" content="Voyages Ayers Rock Resort">
+    <meta name="twitter:description" content="Voyages Ayers Rock Resort Description">
+    <meta name="twitter:creator" content="twittercreator">
+    <meta name="twitter:image:src" content="http://www.ayersrockresort.com.au/images/headers/ayers/TouchtheSilence_1.jpg">
+    <meta name="twitter:url" content="thisistwitterurl">
+<!-- End Of TEST -->
+
 
 
 {% if site.google_verify %}<meta name="google-site-verification" content="{{ site.google_verify }}">{% endif %}
